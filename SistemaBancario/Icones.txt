@@ -1,0 +1,16 @@
+Link dos icones: https://www.freepik.com
+https://www.flaticon.com/br/
+
+#0a1a34, #015f9d, #dec5c8, #e9e9e9
+
+        public static void AddUsers(List<Usuario> usuarios, string User, string Pass, string Email, string Cpf, List<Contas> contas)
+        {
+            usuarios.Add(new Usuario()
+            {
+                Username = User,
+                Password = Pass,
+                Email = Email,
+                Cpf = Cpf,
+                Contas = contas
+            });
+        }

@@ -1,0 +1,17 @@
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.pdb
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csprojAssemblyReference.cache
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.Properties.Resources.resources
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.GenerateResource.cache
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.csproj.CopyComplete
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.pdb
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.Login.resources
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.Screens.Conta.resources
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.SistemBank.resources
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.exe.manifest
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\bin\Debug\SistemaBancario.application
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.exe.manifest
+C:\Users\Thyst\source\repos\SistemaBancario\SistemaBancario\obj\Debug\SistemaBancario.application
